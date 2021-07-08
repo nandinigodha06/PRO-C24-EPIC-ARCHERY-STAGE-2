@@ -1,0 +1,4 @@
+Change version number
+  documentation/Doxyfile
+  documentation/mainpage.h
+  configure/CONFIG_MRFIOC2_VERSION
